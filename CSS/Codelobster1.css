@@ -1,0 +1,31 @@
+*{
+	font-size: 20px;
+}
+
+html{
+	
+} 
+body{
+	background-color: #c523dc;
+	
+}
+h1{
+	color: #f78009
+}
+#s {
+	color: #defd02
+	}
+.rest{
+		color: #0b16f4
+	}
+p.rest{
+		background-color: #051b0c
+	}
+p.five, p.six , b{
+	color: #030afc;
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+		
+		
